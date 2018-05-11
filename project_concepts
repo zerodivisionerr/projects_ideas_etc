@@ -1,0 +1,3 @@
+Projects:
+- Conf management project to go from baremetal to fully configured (for me) arch linux distro
+- Flashcard python script that accepts an dictionary and quizzes you to compare words to definitions. Multiple choice, True/False, (Free hand maybe?)
