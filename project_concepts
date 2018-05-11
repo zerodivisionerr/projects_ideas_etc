@@ -1,3 +1,10 @@
 Projects:
-- Conf management project to go from baremetal to fully configured (for me) arch linux distro
+- Jython my github to make it more prettier
+
+order required {
+- Install and configure SELinux local to arcolap, then utilize it to limit and allow connectivity across arcolap container cluster
+- Create Ansible playbook that that takes target macine from stock (baremetal or base OS, unsure if baremetal is reasonable) to fully configured  arch linux distro
+  - Extend Ansible playbook to customize the newly configured machine to be set up with _my_ tools/browsers/editors/favorites/etc.
+} end order required
+
 - Flashcard python script that accepts an dictionary and quizzes you to compare words to definitions. Multiple choice, True/False, (Free hand maybe?)
