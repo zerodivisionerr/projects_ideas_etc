@@ -1,5 +1,5 @@
 Projects:
-- Jython my github to make it more prettier
+- Jupyter my github to make it more prettier
 
 order required {
 - Install and configure SELinux local to arcolap, then utilize it to limit and allow connectivity across arcolap container cluster
