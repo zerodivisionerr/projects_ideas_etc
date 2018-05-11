@@ -1,6 +1,6 @@
 Each learning objective will have a corresponding person project, so I'll have something to try towards.
 Get *proficient* with (in order, one by one):
-Jython -> Jythoniphy my Git repo
+Jupyter -> Jupter-ify my Git repo
 SELinux -> Install from scratch on arcolap (local Arch Linux box)
 Ansible -> Create a deployable configuration that will built arcolap from stock
 Docker/Kubernetes, rkt/rktnetes -> Create a distributed cluster of arcolaps with which to utilize Pandora FMS and some log aggregation
