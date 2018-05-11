@@ -1,9 +1,11 @@
 Each learning objective will have a corresponding person project, so I'll have something to try towards.
+
 Get *proficient* with (in order, one by one):
-Jupyter -> Jupter-ify my Git repo
-SELinux -> Install from scratch on arcolap (local Arch Linux box)
-Ansible -> Create a deployable configuration that will built arcolap from stock
-Docker/Kubernetes, rkt/rktnetes -> Create a distributed cluster of arcolaps with which to utilize Pandora FMS and some log aggregation
-Log aggregation -> Sub aspect of containerization
-Pandora FMS -> Sub aspect of containerization
-Jenkins, CI/CD -> Utilize CI/CD to have Ansible build and deploy to arcolap (and/or arcolap container cluster) upon git commit
+    Jupyter -> Jupyter-ify my Git repo
+    SELinux -> Install from scratch on arcolap (local Arch Linux box)
+    OS Tuning -> Optimize arcolap and/or acrolap containers/cluser
+    Ansible -> Create a deployable configuration that will built arcolap from stock
+    Docker/Kubernetes, rkt/rktnetes -> Create a distributed cluster of arcolaps with which to utilize Pandora FMS and some log aggregation
+    Log aggregation -> Sub aspect of containerization
+    Pandora FMS -> Sub aspect of containerization
+    Jenkins, CI/CD -> Utilize CI/CD to have Ansible build and deploy to arcolap (and/or arcolap container cluster) upon git commit
