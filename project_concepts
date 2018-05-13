@@ -1,10 +1,13 @@
 Projects:
-- Jupyter my github to make it more prettier
+1. Flashcards Jupyter page or WebApp
+2. Jupyter? my github to make it more prettier
+3. Create Salt states that take stock machine (maybe baremetal or base OS, unsure if baremetal is reasonable) to fully
+    configured and personalized (Arch primarily, but including Windows would be cool)
 
-order required {
-- Install and configure SELinux local to arcolap, then utilize it to limit and allow connectivity across arcolap container cluster
-- Create Ansible playbook that that takes target macine from stock (baremetal or base OS, unsure if baremetal is reasonable) to fully configured  arch linux distro
-  - Extend Ansible playbook to customize the newly configured machine to be set up with _my_ tools/browsers/editors/favorites/etc.
-} end order required
-
-- Flashcard python script that accepts an dictionary and quizzes you to compare words to definitions. Multiple choice, True/False, (Free hand maybe?)
+Flashcards App
+- Can accepts definitions (key: value)
+- Can offer randomly ordered keys/words and multiple choice, true/false answers  to choose from definitions
+- Kepts track of session's correct:incorrect ratio and outputs percentage score at end
++ Utilize Jupyter or WebApp arch
++ DB required to store question/answer sets
++ Auth not necessary; KISS
